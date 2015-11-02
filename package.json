@@ -1,0 +1,19 @@
+{
+  "name": "audiojs",
+  "version": "1.0.0",
+  "description": "audiojs is a drop-in javascript library that allows HTML5's `<audio>` tag to\r be used anywhere. It uses native `<audio>` where available and falls back\r to an invisible flash player to emulate it for other browsers. It also serves\r a consistent html player UI to all browsers which can be styled used standard css.",
+  "main": "audiojs/audio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fer0x/audiojs.git"
+  },
+  "author": "Viktor Havrylin <viktor.havrylin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fer0x/audiojs/issues"
+  },
+  "homepage": "https://github.com/Fer0x/audiojs#readme"
+}
